@@ -49,14 +49,9 @@ pub_rec_bankruptcies	Number of public record bankruptcies
 - tensorflow
 - keras
 
-## Models Tested
+## Models
 Sequential + Dense layers to build neural network
-
-## Results
-- Accuracy, Precision, Recall for each model
-- Feature importance visualizations
 
 ## How to Run
 1. Clone the repository
 2. Install required libraries: `pip install -r requirements.txt`
-3. Open the Jupyter Notebook `COVID.ipynb` to explore analysis and predictions
