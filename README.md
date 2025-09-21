@@ -50,7 +50,7 @@ NOTE: Do not download the full zip from the link! We provide a special version o
 - keras
 
 ## Models
-Sequential + Dense layers to build neural network
+This project uses a feed-forward neural network built with TensorFlow/Kera
 
 ## How to Run
 1. Clone the repository
